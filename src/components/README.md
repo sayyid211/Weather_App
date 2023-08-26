@@ -1,0 +1,1 @@
+This directory contains several components of the app, more like classes in oop.

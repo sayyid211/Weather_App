@@ -1,0 +1,1 @@
+This directory contains the components directory for the app
